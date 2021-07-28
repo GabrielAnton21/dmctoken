@@ -1,0 +1,32 @@
+{
+    "name": "dreamcoin-sale",
+    "version": "1.0.0",
+    "description": "Dreamcoin Sale ICO",
+    "main": "truffle-config.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "dev": "lite-server"
+    },
+    "author": "Gabriel",
+    "devDependencies": {
+        "babel-core": "^6.26.3",
+        "babel-preset-react": "^6.24.1",
+        "lite-server": "^2.6.1"
+    },
+    "dependencies": {
+        "@openzeppelin/contracts": "^4.2.0",
+        "@truffle/contract": "^4.3.24",
+        "@truffle/hdwallet-provider": "^1.4.1",
+        "babel-loader": "^8.1.0",
+        "browsersync": "0.0.1-security",
+        "jquery": "^3.6.0",
+        "mocha": "^9.0.2",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "truffle-contract": "^4.0.31",
+        "web3": "^1.4.0",
+        "webpack": "^4.44.2"
+    }
+}
