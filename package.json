@@ -15,7 +15,7 @@
         "@babel/core": "^7.15.0",
         "@babel/preset-react": "^7.14.5",
         "lite-server": "^2.6.1",
-        "webpack": "^4.46.0",
+        "webpack": "^4.44.2",
         "webpack-cli": "^4.7.2"
     },
     "dependencies": {
